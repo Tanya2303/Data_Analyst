@@ -1,6 +1,4 @@
-# Python Basics - Quick Reference Guide
-
-A beginner-friendly guide covering fundamental Python programming concepts.
+# Python Basics 
 
 ---
 
